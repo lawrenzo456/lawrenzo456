@@ -1,30 +1,15 @@
-## 👋 Greetings, Friend and Welcome to my GitHub!
+## 👋 Greetings, Friend, and Welcome to my GitHub!
 
-<!--
-**lawrenzo456/lawrenzo456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <section id='intro'> </section>
 <section id='table-of-contents'>
 
 ## Table of Contents
 
 1. [About Me](#about-me)
-<!-- 2. [Summary](#summary) -->
 2. [Tech Stack](#tech-stack)
 3. [Featured Projects](#featured-projects)
 4. [Interests](#interests)
-
    <!-- 5. [Certifications](#-certifications) -->
 
 5. [Contact Me](#contact-me)
@@ -34,8 +19,7 @@ Here are some ideas to get you started:
 ## About Me
 
 <div> <p>Transitioning from managing nonprofit programs to managing codebases! Continuously challenging myself to both refine existing skills and use new tools to build and maintain software. Keep scrolling to learn more about me :).</p></div>
-</section>
-<!-- <section id='summary'>
+</section id='summary'>
 
 ## Summary
 
@@ -50,12 +34,6 @@ Here are some ideas to get you started:
 <div> Experienced: 
 <p> Next.js, Tailwind, OpenAI, NoSQL (MongoDB), Mongoose, Hugging Face, ESBuild, WebView, Excalidraw, OAuth, Vite, Figma, Simple Git </p></div>
 
-<!-- - **Languages**: JavaScript (ES6+), TypeScript, C#, SQL
-- **Frontend Frameworks**: React, Vue.js, Angular
-- **Backend Technologies**: Node.js, Express.js
-- **Build Tools**: Familiarity with Webpack, GitHub Actions, CI/CD Pipelines
-- **DevOps & Cloud**: Exposure to Docker, AWS (S3, Lambda)
-- **Other Skills**: REST APIs, TDD, Functional Programming, OOP   -->
 </div>
 <section id='featured-projects'>
 
@@ -71,8 +49,6 @@ Here are some ideas to get you started:
 <li>Leveraged Node.js to dynamically modify local JSON files, streamlining developer task management by linking update files to git commits.
 </li>
 <li>Integrated CSS with VSCode’s extension API to uniformly display information regardless of environment, reducing developer context switching.
-<!-- </li> -->
-<!-- </li> -->
 </ul>
 
 </div>
