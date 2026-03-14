@@ -42,12 +42,12 @@ Here are some ideas to get you started:
 </section> -->
 <section id='tech-stack'>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<div>Strong: 
+<div> Strong: 
 <p> JavaScript (ES6), TypeScript, Node.js, Express.js, React, HTML5, CSS3, Git, GitHub, PostgreSQL, Supabase, JSON, Salesforce
 </p></div>
-<div>Experienced: 
+<div> Experienced: 
 <p> Next.js, Tailwind, OpenAI, NoSQL (MongoDB), Mongoose, Hugging Face, ESBuild, WebView, Excalidraw, OAuth, Vite, Figma, Simple Git </p></div>
 
 <!-- - **Languages**: JavaScript (ES6+), TypeScript, C#, SQL
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ## Featured Projects
 
 <div id=project1> 
-<h3>Versonote & Execode | Open Source Product </h3>
+<h3> 💻 Versonote & Execode | Open Source Product </h3>
 <p> VSCode extension that increases developer workflow by more easily resume tasks when returning to the codebase.</p>
 <ul>
 <li> Identified and debugged core build issues with esBuild configuration, resulting in a 10% increase in the extension’s build time through successful connections between React components & Node APIs.
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 </ul>
 
 </div>
-<div id=project2><h3>Pantry Pal</h3> 
+<div id=project2><h3> 🛒 Pantry Pal 🥑</h3> 
 <p> Fullstack application helping users reduce redundant purchases and manage their inventory. </p>
 <ul>
 <li> Integrated React’s useForm hook to add form entries without needing multiple states, optimizing development processes and improving adaptability. 
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 </li>
 
 </ul></div>
-<div id=project3><h3>Wallet Wise</h3>  
+<div id=project3><h3>💸 Wallet Wise 🧠</h3>  
 <p> Fullstack application that tracks group expenses and accurately calculates individual contributions.
 </p>
 <ul>
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <li>Implemented testing for React components through Vite’s testing suite, streamlining the debugging process and increasing development scalability.
 </li>
 </ul></div> 
-<div id=project4><h3>Corporatify/Corpify</h3>  
+<div id=project4><h3> 🧑🏾‍💼 Corporatify/Corpify </h3>  
 <p> An AI application that analyzes the tone of a statement and outputs the respective “emotional” translation. </p>
 <ul>
 <li> Reduced costs by 96% and latency by 86% by migrating user query processing from GPT-5 to GPT-5-Nano, optimizing responsiveness.
