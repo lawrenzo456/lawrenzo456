@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </section> -->
 <section id='tech-stack'>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack ⚙️
 
 <div> Strong: 
 <p> JavaScript (ES6), TypeScript, Node.js, Express.js, React, HTML5, CSS3, Git, GitHub, PostgreSQL, Supabase, JSON, Salesforce
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ## Featured Projects
 
 <div id=project1> 
-<h3> 💻 Versonote & Execode | Open Source Product </h3>
+<h3> 💻 Versonote & Execode | Open Source Product ⌨️ </h3>
 <p> VSCode extension that increases developer workflow by more easily resume tasks when returning to the codebase.</p>
 <ul>
 <li> Identified and debugged core build issues with esBuild configuration, resulting in a 10% increase in the extension’s build time through successful connections between React components & Node APIs.
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <li>Implemented testing for React components through Vite’s testing suite, streamlining the debugging process and increasing development scalability.
 </li>
 </ul></div> 
-<div id=project4><h3> 🧑🏾‍💼 Corporatify/Corpify </h3>  
+<div id=project4><h3> 🧑🏾‍💼 Corporatify/Corpify 🧑🏽‍💻 </h3>  
 <p> An AI application that analyzes the tone of a statement and outputs the respective “emotional” translation. </p>
 <ul>
 <li> Reduced costs by 96% and latency by 86% by migrating user query processing from GPT-5 to GPT-5-Nano, optimizing responsiveness.
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 </section>
 <section id='interests'>
 
-## The Silly Goofy Me
+## 🙂 The Silly Goofy Me 🙃
 
 <ul>
 <li> Advanced action & strategy RPG gamer</li>
@@ -124,13 +124,13 @@ Here are some ideas to get you started:
 </li>
 </ul>
 
-</section>`
+</section>
 <section id='contact-me'>
 
-## Contact Me
+## 📱 Contact Me 📧
 
 <p>If you're looking to get to know me beyond the words on this page, don't hesitate to reach out! </p>
 
-<p id="clickableContact"> LinkedIn: <a href="#"> Lawrenzo Lue </a> </p>
+<p id="clickableContact"> LinkedIn: <a href="https://www.linkedin.com/in/lawrenzo-lue/"> Lawrenzo Lue </a> </p>
 <p id="clickableContact"> Calendly: <a href=https://calendly.com/lawrenzolue/30min>Let's chat!</a> </p>
 </section>
