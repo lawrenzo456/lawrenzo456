@@ -21,9 +21,6 @@
 <div> <p>Transitioning from managing nonprofit programs to managing codebases! Continuously challenging myself to both refine existing skills and use new tools to build and maintain software. Keep scrolling to learn more about me :).</p></div>
 </section id='summary'>
 
-## Summary
-
-</section> -->
 <section id='tech-stack'>
 
 ## 🛠️ Tech Stack ⚙️
