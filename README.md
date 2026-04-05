@@ -71,7 +71,7 @@
 <li>Implemented testing for React components through Vite’s testing suite, streamlining the debugging process and increasing development scalability.
 </li>
 </ul></div> 
-<div id=project4><h3> 🧑🏾‍💼 Corporatify/Corpify 🧑🏽‍💻 </h3>  
+<div id=project4><h3> 🧑🏾‍💼 Corpify 🧑🏽‍💻 </h3>  
 <p> An AI application that analyzes the tone of a statement and outputs the respective “emotional” translation. </p>
 <ul>
 <li> Reduced costs by 96% and latency by 86% by migrating user query processing from GPT-5 to GPT-5-Nano, optimizing responsiveness.
