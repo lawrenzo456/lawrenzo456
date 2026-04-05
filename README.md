@@ -93,7 +93,7 @@
 <li> Advanced action & strategy RPG gamer</li>
 <li> Complex system analysis and strategic planning through cooperative, high-level tabletop gaming</li>
 <li> Fall foliage hiking and photography</li>
-<li> Matcha vs. chocolate chip? cookie baker & explorer
+<li> Matcha vs. chocolate chip cookies? baker & explorer
 </li>
 </ul>
 
